@@ -18,7 +18,6 @@ int main()
     const vector<int> v {1, 2, 3, 4, 5};
     constexpr int rc = count(v);
     */
-    cout << rc << "\n";
 
     if (!(a > b)) {
         cout << "Hello from if statement\n";
